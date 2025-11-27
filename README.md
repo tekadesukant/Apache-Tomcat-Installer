@@ -24,7 +24,7 @@
 
 # Introduction <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
 
-Welcome to **Apache-Tomcat-QuickSet**, your go-to solution for effortlessly installing and configuring Apache Tomcat. 
+Welcome to **Apache-Tomcat-Installer**, your go-to solution for effortlessly installing and configuring Apache Tomcat. 
 
 ## What's Inside?
 
@@ -36,7 +36,7 @@ Welcome to **Apache-Tomcat-QuickSet**, your go-to solution for effortlessly inst
 ## Project Structure
 
 ```
-Apache-Tomcat-QuickSet/
+Apache-Tomcat-Installer/
 ├── apache-tomcat.sh
 ├── README.md
 ├── Dependencies/
@@ -72,7 +72,7 @@ Our scripts support the following OS platforms/cloud environments:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/tekadesukant/Apache-Tomcat-QuickSet.git
+   git clone https://github.com/tekadesukant/Apache-Tomcat-Installer.git
    cd Apache-Tomcat-QuickSet
    ```
 
@@ -131,5 +131,5 @@ We've integrated convenient commands to manage Tomcat:
 
 ## Support
 
-If you encounter any issues or have questions, feel free to open an issue on our [GitHub repository](https://github.com/tekadesukant/Apache-Tomcat-QuickSet/issues) or reach out to me.
+If you encounter any issues or have questions, feel free to open an issue on our [GitHub repository](https://github.com/tekadesukant/Apache-Tomcat-Installer/issues) or reach out to me.
 
