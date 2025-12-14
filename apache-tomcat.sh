@@ -3,8 +3,8 @@
 # Note: This script has been succesfully tested on an Ubuntu 22.04/24.04, RHEL 8/9, CentOS Stream 8/9, Amazon Linux 2/2023 and Debian 12. Testing on Debian 10/11 is currently in progress.
 
 # Latest version successfully fetched 
-TOMCAT_VERSION=9.0.112
-# Previous Versions : 10.1.49, 11.0.14
+TOMCAT_VERSION=9.0.113
+# Previous Versions : 10.1.50, 11.0.15
 
 # Extracting major version from fetched version
 MAJOR_VERSION=$(echo "$TOMCAT_VERSION" | cut -d'.' -f1)
